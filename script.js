@@ -1,5 +1,5 @@
 const mensagens = [
-    'Você clicou no botão!',
+    'Você clicou 2x no botão!',
     'Muito bem!',
     'Continue clicando!',
     'Você é incrível!',
