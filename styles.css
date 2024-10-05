@@ -1,0 +1,25 @@
+body {
+    background-color: #f0f0f0; /* Cor de fundo */
+    font-family: Arial, sans-serif; /* Fonte */
+}
+
+h1 {
+    color: #333; /* Cor do título */
+}
+
+p {
+    color: #555; /* Cor do texto */
+}
+
+button {
+    padding: 10px 15px; /* Espaçamento interno */
+    background-color: #007BFF; /* Cor do botão */
+    color: white; /* Cor do texto do botão */
+    border: none; /* Sem borda */
+    border-radius: 5px; /* Bordas arredondadas */
+    cursor: pointer; /* Cursor em forma de mão */
+}
+
+button:hover {
+    background-color: #0056b3; /* Cor do botão ao passar o mouse */
+}
