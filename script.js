@@ -1,6 +1,9 @@
 const mensagens = [
-    'Você clicou 2x no botão!',
-    'OK Muito bem!'
+    'Você clicou no botão!',
+    'Muito bem!',
+    'Continue clicando!',
+    'Você é incrível!',
+    'Quase lá!'
 ];
 
 let index = 0;
